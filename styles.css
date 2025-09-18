@@ -1,0 +1,49 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Montserrat", sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #FF0000;
+}
+
+p {
+  font-size: 2rem;
+  color: #EE4B2B;
+  font-family: "Montserrat", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  font-size: 1.5rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background-color: #45a049; 
+}
